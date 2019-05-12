@@ -1,11 +1,11 @@
 Flask-REST-JSONAPI
 ==================
 
-.. Flask-REST-JSONAPI** 是一款快速构建REST API的Flask插件。框架在遵循**JSONAPI 1.0**规范的同时，保持着极强的灵活性。框架设计之初，就考虑到了生产环境的复杂性，所以在**Flask-REST-JSONAPI**中就引入了**逻辑数据抽象层**的概念，框架中叫做**Resource(资源)**。Resource可以通过**Data layer(数据层)**接入任何ORM框架或数据库。（译者注：逻辑数据对应的是物理数据，数据库储存的是物理数据，但有时API返回的数据，不能直接返回数据库的物理数据，需要进行逻辑加工后，才能返回给用户。）
-
 .. toctree::
    :maxdepth: 2
+   :caption: 目录:
 
+   00-简介.md
    01-安装.md
    02-快速上手.md
    03-逻辑数据抽象层.md
