@@ -178,5 +178,5 @@ epub_exclude_files = ['search.html']
 import sphinx_markdown_tables
 
 extensions = [
-    'sphinx-markdown-tables',
+    'sphinx_markdown_tables',
 ]
