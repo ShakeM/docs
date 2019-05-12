@@ -107,7 +107,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'playgrounddoc'
+htmlhelp_basename = 'flask-rest-jsonapi'
 
 # -- Options for LaTeX output ------------------------------------------------
 
@@ -142,7 +142,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'playground', 'playground Documentation',
+    (master_doc, 'flask-rest-jsonapi', 'Flask-rest-jsonapi Documentation',
      [author], 1)
 ]
 
