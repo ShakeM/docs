@@ -175,7 +175,6 @@ epub_title = project
 epub_exclude_files = ['search.html']
 
 # -- Extension configuration -------------------------------------------------
-import sphinx_markdown_tables
 
 extensions = [
     'sphinx_markdown_tables',
