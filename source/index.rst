@@ -3,7 +3,7 @@ Flask-REST-JSONAPI
 
 .. toctree::
    :maxdepth: 2
-   :caption: 目录:
+   :caption: 目录
 
    00-简介.md
    01-安装.md
@@ -23,11 +23,3 @@ Flask-REST-JSONAPI
    15-OAuth.md
    16-配置.md
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
