@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'playground'
+project = 'flask-rest-jsonapi'
 copyright = '2019, Jonathan'
 author = 'Jonathan'
 
@@ -133,7 +133,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'playground.tex', 'playground Documentation',
+    (master_doc, 'flask-rest-jsonapi.tex', 'flask-rest-jsonapi Documentation',
      'Jonathan', 'manual'),
 ]
 
@@ -152,8 +152,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'playground', 'playground Documentation',
-     author, 'playground', 'One line description of project.',
+    (master_doc, 'flask-rest-jsonapi', 'flask-rest-jsonapi Documentation',
+     author, 'flask-rest-jsonapi', 'One line description of project.',
      'Miscellaneous'),
 ]
 
