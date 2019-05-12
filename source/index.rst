@@ -1,5 +1,3 @@
-
-
 Flask-REST-JSONAPI
 ==================
 
@@ -7,7 +5,6 @@ Flask-REST-JSONAPI
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
    01-安装.md
    02-快速上手.md
